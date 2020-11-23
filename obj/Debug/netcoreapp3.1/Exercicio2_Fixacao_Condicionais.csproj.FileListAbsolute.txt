@@ -1,0 +1,13 @@
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Exercicio2_Fixacao_Condicionais\bin\Debug\netcoreapp3.1\Exercicio2_Fixacao_Condicionais.exe
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Exercicio2_Fixacao_Condicionais\bin\Debug\netcoreapp3.1\Exercicio2_Fixacao_Condicionais.deps.json
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Exercicio2_Fixacao_Condicionais\bin\Debug\netcoreapp3.1\Exercicio2_Fixacao_Condicionais.runtimeconfig.json
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Exercicio2_Fixacao_Condicionais\bin\Debug\netcoreapp3.1\Exercicio2_Fixacao_Condicionais.runtimeconfig.dev.json
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Exercicio2_Fixacao_Condicionais\bin\Debug\netcoreapp3.1\Exercicio2_Fixacao_Condicionais.dll
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Exercicio2_Fixacao_Condicionais\bin\Debug\netcoreapp3.1\Exercicio2_Fixacao_Condicionais.pdb
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Exercicio2_Fixacao_Condicionais\obj\Debug\netcoreapp3.1\Exercicio2_Fixacao_Condicionais.csprojAssemblyReference.cache
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Exercicio2_Fixacao_Condicionais\obj\Debug\netcoreapp3.1\Exercicio2_Fixacao_Condicionais.AssemblyInfoInputs.cache
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Exercicio2_Fixacao_Condicionais\obj\Debug\netcoreapp3.1\Exercicio2_Fixacao_Condicionais.AssemblyInfo.cs
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Exercicio2_Fixacao_Condicionais\obj\Debug\netcoreapp3.1\Exercicio2_Fixacao_Condicionais.csproj.CoreCompileInputs.cache
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Exercicio2_Fixacao_Condicionais\obj\Debug\netcoreapp3.1\Exercicio2_Fixacao_Condicionais.dll
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Exercicio2_Fixacao_Condicionais\obj\Debug\netcoreapp3.1\Exercicio2_Fixacao_Condicionais.pdb
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Exercicio2_Fixacao_Condicionais\obj\Debug\netcoreapp3.1\Exercicio2_Fixacao_Condicionais.genruntimeconfig.cache
